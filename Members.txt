@@ -1,6 +1,12 @@
 LIST OF MEMBERS FOR TEAM 65
  
 MEMBER 1 Will
+
+I am Morgan Freeman's son
+ 
+Role in project: team leader
+ 
+Preferred branch of engineering: chemical
  
 MEMBER 2 Phadon
  
