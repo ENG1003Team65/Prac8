@@ -7,3 +7,11 @@ MEMBER 2 Phadon
 MEMBER 3 Jon
  
 MEMBER 4 Corey
+
+Corey Allen
+
+Brief Description: Legend
+
+Role in Project: To lead the team cause dey lazy as fun
+
+Preferred branch of engineering: rocket engineering
