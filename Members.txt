@@ -1,11 +1,18 @@
 LIST OF MEMBERS FOR TEAM 65
  
 MEMBER 1 Will
+
+I am Morgan Freeman's son
+ 
+Role in project: team leader
+ 
+Preferred branch of engineering: chemical
  
 MEMBER 2 Phadon
  
 MEMBER 3 Jon
  
+<<<<<<< HEAD
 MEMBER 4 Corey
 
 Jonathan Halliday
@@ -15,3 +22,18 @@ role in project: programmer
 preferred branch; mechanical
 
 red
+=======
+<<<<<<< HEAD
+MEMBER 4 Corey
+
+Corey Allen
+
+Brief Description: Legend
+
+Role in Project: organiser and presenter 
+
+Preferred branch of engineering: Civil engineering
+=======
+MEMBER 4 Corey
+>>>>>>> parent of 212fbee... fg
+>>>>>>> master
