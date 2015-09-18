@@ -9,6 +9,9 @@ Role in project: team leader
 Preferred branch of engineering: chemical
  
 MEMBER 2 Phadon
+
+Role in Project: Programmer
+
  
 MEMBER 3 Jon
  
@@ -18,7 +21,13 @@ Corey Allen
 
 Brief Description: Legend
 
+
 Role in Project: To lead the team cause dey lazy as fuk
 
 Preferred branch of engineering: rocket engineering
+
+
+Role in Project: organiser and presenter 
+
+Preferred branch of engineering: Civil engineering
 
