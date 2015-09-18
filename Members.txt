@@ -7,3 +7,9 @@ MEMBER 2 Phadon
 MEMBER 3 Jon
  
 MEMBER 4 Corey
+
+Jonathan Halliday
+
+role in project: programmer
+
+preferred branch; mechanical
