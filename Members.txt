@@ -12,7 +12,6 @@ MEMBER 2 Phadon
  
 MEMBER 3 Jon
  
-<<<<<<< HEAD
 MEMBER 4 Corey
 
 Corey Allen
@@ -22,6 +21,4 @@ Brief Description: Legend
 Role in Project: To lead the team cause dey lazy as fuk
 
 Preferred branch of engineering: rocket engineering
-=======
-MEMBER 4 Corey
->>>>>>> parent of 212fbee... fg
+
